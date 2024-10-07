@@ -1,2 +1,2 @@
 # finding-username-from-email
-simple logic for extracting username from email address
+simple code for extracting username from email address
